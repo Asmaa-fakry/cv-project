@@ -1,0 +1,9 @@
+:root {
+    --body-bg: #eee;
+    --main-bg: #ffffff;
+    --main-color: #f86923;
+    --main-hover-color: #ff8c00;
+    --main-color-overlay: rgba(239, 124, 23, 0.88);
+    --secondary-color: #777;
+    --main-text-color: #545454
+}
